@@ -1,1 +1,4 @@
-jupyterlab==4.0.2
+jupyter==1.0.0
+jupyterlab==3.0.14
+pandas==2.2.2
+numpy==2.0.0
